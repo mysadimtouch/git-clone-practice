@@ -1,3 +1,1 @@
-# git-clone-practicef
-
-hello hi can i get a high score.
+# git-clone-practice
